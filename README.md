@@ -1,4 +1,4 @@
-#🎬 Movies Recommendation System
+🎬 Movies Recommendation System
 
 This project implements a content-based movies recommendation system using the TMDB Movie Metadata dataset from Kaggle
 . The system recommends similar movies based on their features such as genres, keywords, cast, and crew.
